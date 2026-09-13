@@ -45,10 +45,10 @@ def head(title, description, path, css_depth=0, extra_head="", body_class=""):
 <meta property="og:image" content="{SITE}/assets/img/riff-apps-logo.png">
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="{root}assets/img/favicon.ico" sizes="any">
-<link rel="icon" href="{root}assets/img/favicon-32.png" type="image/png" sizes="32x32">
-<link rel="icon" href="{root}assets/img/favicon-16.png" type="image/png" sizes="16x16">
-<link rel="apple-touch-icon" href="{root}assets/img/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/assets/img/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/assets/img/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="{root}assets/fonts/outfit-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{root}assets/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
